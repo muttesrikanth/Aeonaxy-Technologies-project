@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.btn-clicked{
+border:2px solid rgb(0, 0, 255);
+background-color: rgb(177, 177, 253);
+}
